@@ -1,10 +1,19 @@
 'use strict';
+/*
+*
+* */
 /**
  * @doc function
  * @name stopWatch
  * @kind function
  *
  * @description This is a stopWatch function to count the time in millisecond.
+ * Here is Jasmine test page: http://tianhengzhou.github.io/Racer-Game/
+ * The test suit may have fails due to the setup time of Jasmine, refresh the
+ * page can fix this problem.
+ * Also I have implement this Racer Game on Plunker via angular.js with simialr
+ * approach. Here is the link:
+ * http://plnkr.co/edit/NF5hDhbGkGWbaXiuFOaP?p=preview
  */
 
 var stopWatch = function () {
